@@ -22,7 +22,7 @@ Para el funcionamiento de Guatemala API seguir los siguientes comandos
 
 dentro de dummy data, se encuentran 5 registros, con el id de {1..5}
 
-##Estado :
+## Estado :
     - pendiente de agregar Oauth con passport de laravel.
 
 
