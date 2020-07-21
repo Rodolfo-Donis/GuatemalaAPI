@@ -40,6 +40,7 @@ dentro de dummy data, se encuentran 5 registros, con el id de {1..5}
 
 ## Estado :
     - pendiente de agregar Oauth con passport de laravel.
+    - Cause de pendiente : Error encontrado  : connnector.php  PDOException::("could not find driver") 
 
 
 
