@@ -22,6 +22,22 @@ Para el funcionamiento de Guatemala API seguir los siguientes comandos
 
 dentro de dummy data, se encuentran 5 registros, con el id de {1..5}
 
+##Dummy Data
+
+- en el proyecto se utiliza dummy data para las 2 funciones, obtener todos los datos y datos de una promocion en base a un Id. la Estructura devuelta es la siguiente :
+```sh
+{
+        "id": "1",
+        "title": "promocion1",
+        "price": "100",
+        "address": "guatemala city",
+        "latitude": "14.6349",
+        "longitude": "90.5069",
+        "created_at": "monday",
+        "updated_at": "monday"
+    }
+```
+
 ## Estado :
     - pendiente de agregar Oauth con passport de laravel.
 
