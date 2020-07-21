@@ -22,7 +22,7 @@ Para el funcionamiento de Guatemala API seguir los siguientes comandos
 
 dentro de dummy data, se encuentran 5 registros, con el id de {1..5}
 
-##Dummy Data
+## Dummy Data
 
 - en el proyecto se utiliza dummy data para las 2 funciones, obtener todos los datos y datos de una promocion en base a un Id. la Estructura devuelta es la siguiente :
 ```sh
